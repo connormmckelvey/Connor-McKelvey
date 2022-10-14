@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on anything, just trying to learn! Shoot me a message!
 - 📫 How to reach me 
       - Discord - Krazy99®#7580
-      - Instagram - krazy.studios
       - Email - krazy.studios.services@gmail.com
-- 💵 Want to support my projects? buymeacoffee.com/krazystudios
+- 💵 Want to support my projects? https://buymeacoffee.com/krazystudios
 
 Current Projects:
  - Fireball Dice Roller - Discord Bot - https://discord.com/api/oauth2/authorize?client_id=900109473933328444&permissions=414129179729&scope=bot
