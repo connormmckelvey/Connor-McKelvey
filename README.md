@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Connor-McKelvey Amateur Programmer and Tech Enthusist
 - 👀 I’m interested in programming discord bots
-- 🌱 I’m currently learning java, sql and details of VPSs
+- 🌱 I’m currently learning java, unity, python, and details of VPSs
 - 💞️ I’m looking to collaborate on anything, just trying to learn! Shoot me a message!
 - 📫 How to reach me 
       - Discord - Krazy99®#7580
